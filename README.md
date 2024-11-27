@@ -1,6 +1,6 @@
 # Clustering-Algorithm-
 
-# ris Dataset Clustering
+# Iris Dataset Clustering
 This repository contains Python code to implement KMeans Clustering and Hierarchical Clustering on the well-known Iris dataset from the sklearn library. The code demonstrates how to apply unsupervised learning algorithms to group the iris flowers based on their features.
 
 # Table of Contents
